@@ -8,7 +8,7 @@ Besides programming, I am very active in Sports and outdoor activities.
 - 💬 I am fascinated by transformer models like OpenAI, Claude, and open-source Hugging Face models. I build LLM-RAG tools and publish them on GitHub to help automate your daily tasks. 
 - 📫 How to reach me: sarthaksingh@gmail.com
 - 😄 Pronouns: Programmer/he/him
-- ⚡ Website: [All LLM projects]([https://github.com/Sarthak-kiloray/LLM-RAG_customer_support_voice](https://sarthak-kiloray.github.io/))
+- ⚡ Website: [All LLM projects](https://sarthak-kiloray.github.io/)
 - 📝 [Resume.pdf](https://github.com/user-attachments/files/23955227/Updated_Resume.pdf)
 
 
